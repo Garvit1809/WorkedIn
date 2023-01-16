@@ -23,6 +23,11 @@ WorkedIn is an application for people to share projects and collaborate with fol
 
 We check work ethics of a person through `CONTRACTS` . Before starting a project, the team lead would create a contract between the team members and that contract would be shown in each member's profile. In this way, one can check the work ethics of a person through their past contracts whether they complete projects on time, ot they delay the projects frequently or if they are habitual of breaking or ghosting contract/projects.
 
+You can checkout the demo video on youtube by clicking on the thumbnail below.
+<a href="https://youtu.be/Bssegd5_Npg">
+<img src="https://user-images.githubusercontent.com/89806031/212765205-c64d4554-9b51-4f26-9a8c-35e8715bb792.png" >  
+</a>
+
 The site is in `PROGRESS`.
 
 ---
