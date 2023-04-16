@@ -5,7 +5,7 @@ import styled from "styled-components";
 import { postProps } from "../../types/postTypes";
 import { userProps } from "../../types/userTypes";
 import { BASE_URL, postEnd } from "../../utils/apiRoutes";
-import { localStorageUser } from "../../utils/globalContants";
+import { localStorageUser } from "../../utils/globalConstants";
 import Navbar from "../generalComp/Navbar";
 import ActivityBox from "../homeComp/ActivityBox";
 import CommentBox from "../commentComp/CommentBox";

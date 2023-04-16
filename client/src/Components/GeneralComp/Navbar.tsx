@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import styled from "styled-components";
 import { userProps } from "../../types/userTypes";
-import { localStorageUser } from "../../utils/globalContants";
+import { localStorageUser } from "../../utils/globalConstants";
 
 const Section = styled.div`
   width: 100%;

@@ -13,7 +13,7 @@ import RecentUserActivity from "../components/profileComp/RecentUserActivity";
 
 import { userProps } from "../types/userTypes";
 import { contractProps } from "../types/contractTypes";
-import { localStorageUser } from "../utils/globalContants";
+import { localStorageUser } from "../utils/globalConstants";
 import { BASE_URL, userEnd } from "../utils/apiRoutes";
 import { getHeaders } from "../utils/helperFunction";
 

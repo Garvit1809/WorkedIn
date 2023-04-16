@@ -5,7 +5,7 @@ import NoContracts from "../components/contractComp/NoContracts";
 import ShowContract from "../components/contractComp/contractModals/ShowContract";
 import Navbar from "../components/generalComp/Navbar";
 import { BASE_URL, contractEnd } from "../utils/apiRoutes";
-import { localStorageUser } from "../utils/globalContants";
+import { localStorageUser } from "../utils/globalConstants";
 import { getHeaders } from "../utils/helperFunction";
 import ContractCard from "../components/contractComp/ContractCard";
 import { contractProps } from "../types/contractTypes";

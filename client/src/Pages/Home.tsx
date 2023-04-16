@@ -7,7 +7,7 @@ import ProfileBriefBox from "../components/homeComp/ProfileBriefBox";
 import { apiProvider } from "../utils/helperFunction";
 import ActivityBox from "../components/homeComp/ActivityBox";
 import PostFeed from "../components/homeComp/PostFeed";
-import { localStorageUser } from "../utils/globalContants";
+import { localStorageUser } from "../utils/globalConstants";
 import { postProps } from "../types/postTypes";
 import { userProps } from "../types/userTypes";
 

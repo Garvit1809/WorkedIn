@@ -12,7 +12,7 @@ import Skills from "../components/profileComp/Skills";
 import { contractProps } from "../types/contractTypes";
 import { userProps } from "../types/userTypes";
 import { BASE_URL, userEnd } from "../utils/apiRoutes";
-import { localStorageUser } from "../utils/globalContants";
+import { localStorageUser } from "../utils/globalConstants";
 import { getHeaders } from "../utils/helperFunction";
 
 const Section = styled.div`

@@ -4,7 +4,7 @@ import styled from 'styled-components'
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import axios from 'axios';
-import { localStorageUser } from '../utils/globalContants';
+import { localStorageUser } from '../utils/globalConstants';
 import { BASE_URL, userEnd } from '../utils/apiRoutes';
 
 const Section = styled.div`
